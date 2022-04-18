@@ -1,0 +1,39 @@
+1650252744563	geckodriver	INFO	Listening on 127.0.0.1:56647
+1650252744568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegOxlo4"
+1650252745473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegOxlo4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45289/devtools/browser/ba9edc4b-e6e1-4cd5-a7c9-ab8bb09a6e8f
+1650252747532	Marionette	INFO	Listening on port 44695
+Read port: 44695
+1650252747670	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1629: Error: permitUnload is already running for this tab.
+1650252751235	Marionette	INFO	Stopped listening on port 44695
+1650253795968	geckodriver	INFO	Listening on 127.0.0.1:58271
+1650253795972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegyNl1Z"
+1650253796655	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegyNl1Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41871/devtools/browser/6ddbb480-4db5-4146-a625-5846bdccdcf9
+1650253797656	Marionette	INFO	Listening on port 36173
+Read port: 36173
+1650253797734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650253817394	Marionette	INFO	Stopped listening on port 36173
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1650254072754	geckodriver	INFO	Listening on 127.0.0.1:59991
+1650254072757	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38641" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerlNTm2"
+1650254073453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerlNTm2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38641/devtools/browser/9035087a-ed13-464b-bea4-81f622a74460
+1650254074610	Marionette	INFO	Listening on port 36597
+Read port: 36597
+1650254074691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Unable to find target with innerWindowId:2147483651"
+console.error: "Unable to find target with innerWindowId:2147483651"
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
