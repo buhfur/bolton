@@ -1,4 +1,4 @@
 #!/bin/sh 
 
 
-python3 bolton.py creds.txt
+python3 bolton.py ryanmcvicker12@gmail.com viking11

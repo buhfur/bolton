@@ -163,3 +163,165 @@ Read port: 37077
 1650328240500	Marionette	INFO	Stopped listening on port 37077
 console.warn: services.settings: main/query-stripping sync interrupted by shutdown
 console.warn: services.settings: main/quicksuggest sync interrupted by shutdown
+1650381419283	geckodriver	INFO	Listening on 127.0.0.1:41285
+1650381419287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55875" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVY64pr"
+1650381419857	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVY64pr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55875/devtools/browser/bb25a02a-2b55-4aa3-b98c-402255cecd5e
+1650381420846	Marionette	INFO	Listening on port 41729
+Read port: 41729
+1650381420901	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650381420913	Marionette	INFO	Stopped listening on port 41729
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1650381733423	geckodriver	INFO	Listening on 127.0.0.1:51873
+1650381733427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDrbspZ"
+1650381734001	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDrbspZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44409/devtools/browser/0273cde3-e9c6-451e-8109-a2a9faa9d6ba
+1650381734868	Marionette	INFO	Listening on port 35585
+Read port: 35585
+1650381734954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650381734967	Marionette	INFO	Stopped listening on port 35585
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/quicksuggest sync interrupted by shutdown
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child 93515
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+1650381991984	geckodriver	INFO	Listening on 127.0.0.1:57625
+1650381991988	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGhr1OE"
+1650381992574	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGhr1OE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46219/devtools/browser/37650ac6-4d5a-48d5-95ca-dc79b5cd001b
+1650381993584	Marionette	INFO	Listening on port 41967
+Read port: 41967
+1650381993601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650381993612	Marionette	INFO	Stopped listening on port 41967
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/quicksuggest sync interrupted by shutdown
+1650383797152	geckodriver	INFO	Listening on 127.0.0.1:34483
+1650383797155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBZKOAI"
+1650383797698	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBZKOAI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51127/devtools/browser/e8c1b527-22e1-4d15-8e26-810cfe48b58a
+1650383798637	Marionette	INFO	Listening on port 34881
+Read port: 34881
+1650383798668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650383800318	Marionette	INFO	Stopped listening on port 34881
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650383847087	geckodriver	INFO	Listening on 127.0.0.1:48181
+1650383847091	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34151" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefypo1u"
+1650383847642	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefypo1u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34151/devtools/browser/64a7e5da-aaa6-479f-88c9-54f57789798a
+1650383848585	Marionette	INFO	Listening on port 34263
+Read port: 34263
+1650383848604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650383850503	Marionette	INFO	Stopped listening on port 34263
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650384142038	geckodriver	INFO	Listening on 127.0.0.1:40471
+1650384142042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60387" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWgRgvn"
+1650384142589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWgRgvn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60387/devtools/browser/89bf7ffd-1638-4400-a9ad-290594c9c459
+1650384143515	Marionette	INFO	Listening on port 41563
+Read port: 41563
+1650384143582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650384145347	Marionette	INFO	Stopped listening on port 41563
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1650384289560	geckodriver	INFO	Listening on 127.0.0.1:45989
+1650384289564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeTfs1R"
+1650384290213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileeTfs1R/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44323/devtools/browser/b3f5a0af-734f-448d-85ca-e1ded4aa0f5e
+1650384291299	Marionette	INFO	Listening on port 39391
+Read port: 39391
+1650384291397	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650384293173	Marionette	INFO	Stopped listening on port 39391
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650384316920	geckodriver	INFO	Listening on 127.0.0.1:41285
+1650384316923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefsykDD"
+1650384317473	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefsykDD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40045/devtools/browser/c0059a95-ceca-4416-9a55-d8428527f4d7
+1650384318334	Marionette	INFO	Listening on port 41473
+Read port: 41473
+1650384318455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650384320383	Marionette	INFO	Stopped listening on port 41473
+1650384328935	geckodriver	INFO	Listening on 127.0.0.1:53437
+1650384328939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileR1wDyU"
+1650384329486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR1wDyU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35687/devtools/browser/97d8c7ca-ba8f-4580-8cc3-20af25d286ee
+1650384330448	Marionette	INFO	Listening on port 37283
+Read port: 37283
+1650384330554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650384332487	Marionette	INFO	Stopped listening on port 37283
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650384522616	geckodriver	INFO	Listening on 127.0.0.1:42927
+1650384522620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewHq9j1"
+1650384523170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewHq9j1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46113/devtools/browser/d4088b9a-0753-4d55-9a6a-fc4c07b6f50a
+1650384524086	Marionette	INFO	Listening on port 46165
+Read port: 46165
+1650384524133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650384525998	Marionette	INFO	Stopped listening on port 46165
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1650384943172	geckodriver	INFO	Listening on 127.0.0.1:34627
+1650384943176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVYupOi"
+1650384943855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVYupOi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55109/devtools/browser/43eb860c-0fe7-4505-8aca-d26dec75833b
+1650384944955	Marionette	INFO	Listening on port 40769
+Read port: 40769
+1650384944989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650384946401	Marionette	INFO	Stopped listening on port 40769
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 71: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1650386058637	geckodriver	INFO	Listening on 127.0.0.1:48419
+1650493542084	geckodriver	INFO	Listening on 127.0.0.1:32881
+1650493542584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJaX0gO"
+1650493543438	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJaX0gO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37897/devtools/browser/230d2827-7b1a-41df-9831-c33fd908ef94
+1650493545151	Marionette	INFO	Listening on port 43667
+Read port: 43667
+1650493545206	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650493545226	Marionette	INFO	Stopped listening on port 43667
+1650493569033	geckodriver	INFO	Listening on 127.0.0.1:58279
+1650493569036	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuJI2xI"
+1650493569844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuJI2xI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38281/devtools/browser/0c53aa66-a3ad-48ce-9927-d56fab487be5
+1650493571195	Marionette	INFO	Listening on port 45545
+Read port: 45545
+1650493571316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650493571346	Marionette	INFO	Stopped listening on port 45545
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
