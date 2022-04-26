@@ -1,4 +1,6 @@
-creds.txt
+creds.yaml
+creds.txt 
+creds* 
 run
 geckodriver.log
 boltonDataProto.py 
